@@ -6,3 +6,6 @@ This repository is built step by step in the tutorial.
 
 Some changes are made here.
 This is another changes...
+
+branch 2 new from bash
+branch 1 from web
